@@ -34,7 +34,9 @@ pyshorteners library (install using pip install pyshorteners)
 Ensure you have Python 3.x installed on your system.
 Install the pyshorteners library by running the following command:
 bash
-Copy code
+
+**Copy code**
+
 pip install pyshorteners
 
 
@@ -46,7 +48,8 @@ Run the script using the following command:
 
 
 bash
-Copy code
+**Copy code**
+
 python url_shortener.py
 
 The URL Shortener window will appear. Paste the URL you want to shorten and click the "Create" button to get the shortened URL.

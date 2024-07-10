@@ -41,8 +41,12 @@ pip install pyshorteners
 **How to Run**
 
 Save the script as url_shortener.py.
+
 Run the script using the following command:
+
+
 bash
 Copy code
 python url_shortener.py
+
 The URL Shortener window will appear. Paste the URL you want to shorten and click the "Create" button to get the shortened URL.

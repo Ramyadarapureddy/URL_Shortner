@@ -7,15 +7,25 @@ This is a simple URL shortener application built using Python's Tkinter library 
 **Features**
 
 **User-friendly Interface:** A clean and simple GUI where users can paste a long URL and get a shortened URL.
+
+
 **URL Validation:** Checks if the input URL field is empty and displays an error message if it is.
+
+
 **Date Display:** Displays the current date on the interface.
+
+
 **Instant URL Shortening:** Uses TinyURL service via pyshorteners to shorten URLs instantly.
 
 
 **Requirements**
 
 Python 3.x
+
+
 Tkinter (comes pre-installed with Python)
+
+
 pyshorteners library (install using pip install pyshorteners)
 
 

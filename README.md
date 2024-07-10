@@ -57,6 +57,3 @@ python url_shortener.py
 The URL Shortener window will appear. Paste the URL you want to shorten and click the "Create" button to get the shortened URL.
 
 
-Screenshots:
-
-(<Screenshot 2024-07-10 165009.png>) (<Screenshot 2024-07-10 164843.png>)

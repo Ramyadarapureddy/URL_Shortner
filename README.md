@@ -48,6 +48,8 @@ Run the script using the following command:
 
 
 bash
+
+
 **Copy code**
 
 python url_shortener.py
